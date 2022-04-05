@@ -1,7 +1,7 @@
 - Hi, I’m @abbasovsh
 - I’m interested in Information Technology
 - I’m currently learning Data Science
-- I’m looking to collaborate on ...
+- I’m looking to collaborate on Information Technology
 - How to reach me:
 -       Gmail: mrshamsiddinabbosov@gmail.com
 -       Telegram: @shamsiddinabbosov
